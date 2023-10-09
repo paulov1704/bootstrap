@@ -1,0 +1,7 @@
+.col{
+    border: solid rgb(204, 204, 204) 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+}
